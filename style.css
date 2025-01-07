@@ -136,6 +136,19 @@ main {
 	cursor: pointer;
 }
 
+#submit-btn {
+	font-weight: bold;
+}
+
+#submit-btn:hover,
+#submit-btn:active {
+	background-color: rgb(155, 245, 128);
+}
+
+.reverse {
+	flex-direction: row-reverse;
+}
+
 /* modal input */
 
 input {
