@@ -132,3 +132,7 @@ git clone https://github.com/cvfisher/worlds-most-annoying-cookie-consent.git
 ```
 
 Open index.html in a browser.
+
+## License
+
+This project is open source and available under the MIT License.
